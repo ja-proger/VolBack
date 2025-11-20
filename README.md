@@ -1,4 +1,4 @@
-# Backup
+# BackupTool
 Swift framework to calculate backup volumes
 
 ## License
